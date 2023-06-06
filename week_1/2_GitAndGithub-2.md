@@ -18,11 +18,11 @@ Link = weg naar een website
 ## OPDRACHT:
 **Maak een Markdown-document met je gekozen editor. Je document moet de**
 **volgende elementen bevatten:**
-* ○ Een level 1 header
-* ○ Een level 2 header
-* ○ Een codeblok
-* ○ Een bold tekst
-* ○ Een link naar een website
+* Een level 1 header
+* Een level 2 header
+* Een codeblok
+* Een bold tekst
+* Een link naar een website
 
 ##RESULTAAT:
 # Een level 1 header
