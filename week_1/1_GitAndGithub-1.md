@@ -51,8 +51,7 @@ Opdracht 2:
   2023-06-05 (6).png
 
 ● Push je notities naar de repository
-  - git remote add origin https://github.com/techgrounds/techgrounds-FvL69
-  - git push -u origin master
-
+  ??
+  
 ● Deel deze repository met je Learning Coach
   
