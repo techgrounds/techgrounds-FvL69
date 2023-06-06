@@ -39,7 +39,7 @@ heb daarna bovenstaande URL van een peer gekregen en dat was een stuk duidelijke
 
 ## RESULTAAT:
 
-![PrtSc result](../00_includes/week1/Linux/2023-06-06.png)
+![PrtSc result](../00_includes/week1/Linux/2023-06-06_8.png)
 
-**Inloggen bij AWS Linux server in PowerShell:**
+**Inloggen bij AWS Linux server in Git Bash:**
 ssh -p 52201 -i Nest-fr-van-Lieshout.pem francois_@3.121.130.219
