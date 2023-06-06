@@ -29,7 +29,7 @@ server in te loggen.
 
 [connect ec2 instance ssh](https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/)
 
-![PrtSc clickittech](00_includes\week1\Linux\2023-06-06_1.png)
+![PrtSc clickittech](00_includes/week1/Linux/2023-06-06_1.png)
 
 En mijn peers.
 
@@ -39,7 +39,7 @@ heb daarna bovenstaande URL van een peer gekregen en dat was een stuk duidelijke
 
 ## RESULTAAT:
 
-![PrtSc result](..\00_includes\week1\Linux\2023-06-06.png)
+![PrtSc result](../00_includes/week1/Linux/2023-06-06.png)
 
 **Inloggen bij AWS Linux server in PowerShell:**
 ssh -p 52201 -i Nest-fr-van-Lieshout.pem francois_@3.121.130.219
