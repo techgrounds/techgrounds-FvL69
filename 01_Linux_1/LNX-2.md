@@ -32,7 +32,7 @@ PWD = present working directory
 Geen.
 
 ## RESULTAAT:
-![PrtSc result](..\00_includes\week1\Linux\2023-06-06_3.png)
+![PrtSc result](../00_includes/week1/Linux/2023-06-06_3.png)
 
 **Inloggen bij AWS Linux server in PowerShell:**
 ssh -p 52201 -i Nest-fr-van-Lieshout.pem francois_@3.121.130.219

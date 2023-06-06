@@ -37,34 +37,34 @@ Ik heb mijn versie van Git verwijderd en opnieuw geïnstalleerd omdat ik problem
 * Maak een GitHub account als je er nog geen hebt
   Ik had al een bestaand account.
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-05_9.png) 
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_9.png) 
 
 * Maak een repository op je GitHub account voor je portfolio
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-05_8.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_8.png)
 
 * Geef permissies aan je teamgenoten om de repository te gebruiken
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-05_7.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_7.png)
 
 * Push je code naar je repository
 
   test.txt
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-05_5.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_5.png)
 
 * Pull / Clone een repository van je peer.
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-05_10.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_10.png)
 
 
 **Opdracht 2:**
 * Maak een nieuwe repository aan voor je portfolio
 
-  ![PrtSc](..\]00_includes\week1\Git\2023-06-05_6.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-05_6.png)
 
 * Push je notities naar de repository
 
-  ![PrtSc](..\00_includes\week1\Git\2023-06-06_4.png)
+  ![PrtSc](../00_includes/week1/Git/2023-06-06_4.png)
   
 * Deel deze repository met je Learning Coach
