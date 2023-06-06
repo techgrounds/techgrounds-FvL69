@@ -4,10 +4,15 @@ van werken met tekst.
 
 ## KEY-TERMS:
 VS Code = text editor
+
 level 1 header = grootte opmaak karakters: groot
+
 level 2 header = grootte opmaak karakters: middel
+
 CodeBlocks = blok met programmeertaal
+
 Link = weg naar een website
+
 .md = markdown file extension
 
 ## OPDRACHT:
@@ -21,6 +26,7 @@ Link = weg naar een website
 
 ##RESULTAAT:
 # Een level 1 header
+
 ## Een level 2 header
 
 #### Block of code:
