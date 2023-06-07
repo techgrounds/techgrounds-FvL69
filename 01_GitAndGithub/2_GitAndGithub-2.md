@@ -24,7 +24,8 @@ Link = weg naar een website
 * Een bold tekst
 * Een link naar een website
 
-##RESULTAAT:
+## RESULTAAT:
+
 # Een level 1 header
 
 ## Een level 2 header
