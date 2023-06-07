@@ -48,3 +48,4 @@ Ik moest grep weer even opzoeken.
 ## RESULTAAT:
 
 ![PrntSc](../00_includes/week1/Linux/2023-06-06_11.png)
+
