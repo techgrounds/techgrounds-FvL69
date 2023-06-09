@@ -1,0 +1,25 @@
+## BASH SCRIPTING:
+
+
+
+## KEY-TERMS
+
+*
+*
+*
+*
+*
+
+## ASSIGNMENT:
+
+
+
+## USED RESOURCES:
+
+
+
+## DIFFICULTIES:
+
+
+
+## RESULT:

@@ -21,22 +21,22 @@ There are 3 categories of processes in linux:
 
 **Kill** = send a signal to a process
 
-## OPDRACHT:
+## ASSIGNMENT:
 
 * Start the telnet deamon
 * Find out the telnet PID
 * Find out how much memory telnet is using
 * Kill the telnetd process 
 
-## GEBRUIKTE BRONNEN:
+## USED RESOURCES:
 
 [Telnet_src](https://www.javatpoint.com/linux-telnet-command)
 
-## ERVAREN PROBLEMEN:
+## DIFFICULTIES:
 
 none really
 
-## RESULTAAT:
+## RESULT:
 
 **Starting the telnet deamon with the telnet command:**
 
