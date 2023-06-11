@@ -5,8 +5,8 @@ Any task that you schedule through crons is called a cron job. Cron jobs help us
 Crontabs use the following flags for adding, listing and removing cron jobs.
 * crontab -e: edits crontab entries to add, delete, or edit cron jobs.
 * crontab -l: list all the cron jobs for the current user.
-* crontab -i: remove the current crontab with a Y/N prompt (recommended)
 * crontab -r: remove the current crontab.
+* crontab -ri: remove the current crontab with a Y/N prompt (recommended)
 
 ## KEY-TERMS
 
@@ -27,7 +27,7 @@ Crontabs use the following flags for adding, listing and removing cron jobs.
 
 [crontab-explained](https://devconnected.com/cron-jobs-and-crontab-on-linux-explained/)
 
-[cron_Gurr](https://crontab.guru/)
+[cron_Gurru](https://crontab.guru/)
 
 [freediskspace](https://opensource.com/article/18/7/how-check-free-disk-space-linux)
 
