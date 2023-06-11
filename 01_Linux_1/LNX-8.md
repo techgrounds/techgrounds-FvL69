@@ -57,7 +57,7 @@ in my crontab. Simple (bit anoying) mistakes but good for learning purposes.
 
 ### Register the script in your cron tab so that it runs every minute.
 
-![crontab-datetime](../00_includes\week1\Linux\cronjob8.2.png)
+![crontab-datetime](../00_includes/week1/Linux/cronjob8.2.png)
 
 ### Misson accomplished.
 
