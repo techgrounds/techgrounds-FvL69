@@ -1,8 +1,8 @@
 ## THE OSI MODEL:
 
-The OSI Model is just a reference/logical model. It was designed to describe the   
-functions of the communication system by dividing the communication procedure 
-into smaller and simpler components. 
+The OSI Model is a logical and conceptual model that defines network communication used by systems open to interconnection  
+and communication with other systems. The Open System Interconnection (OSI Model) also defines a logical network and effectively  
+describes computer packet transfer by using various layers of protocols.
 
 
 ## THE TCP/IP MODEL:
@@ -25,9 +25,6 @@ for file transfer, and SMTP (Simple Mail Transfer Protocol) for email.
 * OSI model = Open Systems Interconnect model
 * TCP/IP = Transmission Control Protocol / Internet Protocol
 * UDP = User Datagram Protocol
-* 
-*
-*
 
 ## ASSIGNMENT:
 
@@ -40,11 +37,15 @@ for file transfer, and SMTP (Simple Mail Transfer Protocol) for email.
 
 [TCP/IP model](https://www.geeksforgeeks.org/tcp-ip-model/)
 
+[OSI_TCP-IP](https://www.guru99.com/layers-of-osi-model.html#12)
+
 ## DIFFICULTIES:
 
 The assignment covers a lot of information you need to grasp.
 
 ## RESULT:
+
+![OSI_TCP-IP](../00_includes/SCREENSHOTS/Networking/NWT-OSI_TCP-IP.png)
 
 ## OSI model:
 
