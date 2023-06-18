@@ -50,7 +50,7 @@ A lot of information to cover to be able to understand how subnetting works.
 
 ### Network Architecture:
 
-![subnet_architecture](../00_includes\SCREENSHOTS\Networking\NTW-06_architerture.drawio.png)
+![subnet_architecture](../00_includes/SCREENSHOTS/Networking/NTW-06_Architecture.png)
 
 **Explanation:**
 
