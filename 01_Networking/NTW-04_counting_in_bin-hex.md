@@ -42,7 +42,7 @@ None
 | 1  |0  |0  |1 |1 |0 |0 |0 |    
 |+128|0|0|+16|+8|0|0|0|  
 
-### Binary 10011000 is 154 Decimal
+### Binary 10011000 is 152 Decimal
 
 ### For decimal to binary: 154 in binary:
 
