@@ -10,7 +10,6 @@
 * binary = a base 2 number  
 * decimal = a base 10 number  
 * hexadecimal = a base 16 number
-* 16^2 = 16 to the power of 2 == 16 * 16  
 
 ## ASSIGNMENT:
 
@@ -34,42 +33,48 @@ None
 
 ## RESULT:
 
-### Binary - Decimal 
+### Binary -> Decimal 
 
-### decimal = base 10  binary = base 2
 
-128 64 32 16 8 4 2 1  
---------------------   
-  1  0  0  1 1 0 0 0  
-128+0+0+16+8+0+0+0 = 152 
+|   |   |   |   |  |  |  |  |  
+|:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|    
+|128| 64| 32| 16| 8| 4| 2| 1|  
+| 1  |0  |0  |1 |1 |0 |0 |0 |    
+|+128|0|0|+16|+8|0|0|0|  
 
-* For decimal to binary: 154 in binary:
+### Binary 10011000 is 154 Decimal
+
+### For decimal to binary: 154 in binary:
+
 * Start subtracting the highest number in the decimal line above from 154 and work your way to the right.  
-* **If you can subtract denote a 1, if not denote a 0.**  
+* **If you can subtract notate a 1, if not notate a 0.**  
 
-* So 154 - 128 = 26 (1)  
-* 26 - 64 = not pos (10)  
-* 26 - 32 = np      (100)  
-* 26 - 16 = 10      (1001)  
-* 10 - 8 = 2        (10011)    
-* 2 - 4 = np        (100110)  
-* 2 - 2 = 0         (1001101)  
-* 0 -1 = np         (10011010)  
-* so, 154 in binary is: 10011010
+|decimal calc      |bin output|
+|:-----------------|:---------|  
+|154 - 128 = 26    | 1        |  
+| 26 - 64 = not pos| 10       |  
+| 26 - 32 = np     | 100      |  
+| 26 - 16 = 10     | 1001     |  
+| 10 - 8 = 2       | 10011    |  
+| 2 - 4 = np       | 100110   | 
+| 2 - 2 = 0        | 1001101  |  
+| 0 -1 = np        | 10011010 |    
+
+So, 154 in binary is: 10011010  
 
 * Smallest 8 bit binary: 0000 0000 = 0  
 * Largest 8 bit binary: 1111 1111 = 255  
 
-### Translate the following numbers into binary.  
+### Convert the following decimals into binary.  
 |Decimal   |Binary     |  
 |:-------- |:--------- |  
-|16        |1000       |  
+|16        |10000      |  
 |128       |10000000   |  
 |228       |11100100   |  
 |112       |1110000    |  
 |73        |1001001    |    
 
-### Translate the following binary number into decimal.
+### Convert the following binary number into decimal.
 |Binary |Decimal |  
 |:---------|:--------|  
 |1010 1010 |170      |  
@@ -84,7 +89,7 @@ None
 ### The hexadecimal digit is expanded to multiply each digit with the power of 16.  
 ### The power starts at 0 from the right moving forward towards the left with the increase in power.  
 
-### |16^6|16^5|16^4|16^3|16^2|16^1|16^0|  
+### |16^7|16^6|16^5|16^4|16^3|16^2|16^1|16^0|  
 
 **Hexa = 6 + decimal = 10  --> Hexadecimal = 16**  
 

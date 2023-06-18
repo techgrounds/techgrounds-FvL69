@@ -8,7 +8,7 @@ In other cases, it might be to serve as a translator or to block suspicious netw
 ## KEY-TERMS
 
 * Network Devices = devices that interconnect network traffic
-* DHCP-server = dynamic host control protocol
+* DHCP-server = dynamic host configuration protocol
 * LAN = local area network
 
 
