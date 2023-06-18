@@ -66,47 +66,47 @@ To successfully create and run a shell script, we need to do three things:
 ### Creating scripts directory
 ### Add scripts dir to $PATH permanently by adding it to the .bashrc file
 
-![PrntScr](../00_includes/week1/Linux/scripts1.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/scripts1.png)
 
-![PrntScr](../00_includes/week1/Linux/SetPATH.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/SetPATH.png)
 
 
 
 ### This bash script takes any text file as positional parameter in which you want to append text.
 
 
-![PrntScr](../00_includes/week1/Linux/scripts3.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/scripts3.png)
 
 ### The bash script code in nano
 
-![PrntScr](../00_includes/week1/Linux/scripts4.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/scripts4.png)
 
 
 ### Prerequisites for apache2 set up , setting up a basic firewall
 
-![PrntScr](../00_includes/week1/Linux/init_server_setup.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/init_server_setup.png)
 
-![PrntScr](../00_includes/week1/Linux/allowApache.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/allowApache.png)
 
 ### Installed, activated and enabled apache2 by bash script.
 
-![PrntScr](../00_includes/week1/Linux/nanoApacheScript.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/nanoApacheScript.png)
 
-![PrntScr](../00_includes/week1/Linux/apache2server.png)
+![PrntScr](../00_includes/week1/SCREENSHOTS/apache2server.png)
 
 
 ## Exercise 2:
 
 ### Creating a script that produces a random number.
 
-![PrntScr](../00_includes/week1/Linux/randomNum1.1.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/randomNum1.1.png)
 
-![PrntScr](../00_includes/week1/Linux/randomNum1.0.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/randomNum1.0.png)
 
 ## Exercise 3:
 
 ### Creating a script that produces a random number with added functionality.
 
-![PrntScr](../00_includes/week1/Linux/randomNum2.0.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/randomNum2.0.png)
 
-![PrntScr](../00_includes/week1/Linux/randomNum2.1.png)
+![PrntScr](../00_includes/SCREENSHOTS/Linux/randomNum2.1.png)

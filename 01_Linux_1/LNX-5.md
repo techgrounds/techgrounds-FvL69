@@ -33,4 +33,4 @@ geen
 
 ## RESULTAAT:
 
-![ScrSht](../00_includes/week1/Linux/2023-06-07_5.png)
+![ScrSht](../00_includes/SCREENSHOTS/Linux/2023-06-07_5.png)

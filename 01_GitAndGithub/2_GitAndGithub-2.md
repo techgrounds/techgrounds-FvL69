@@ -38,4 +38,4 @@ print(message)
 ### Een link naar een website:
 [connect ec2 instance ssh](https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/)
 
-**Een bold tekst**
+**a bold tekst**
