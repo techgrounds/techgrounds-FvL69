@@ -41,7 +41,7 @@ No.
 
 ## RESULT:
 
-![NTW-case-study](../00_includes\SCREENSHOTS\Security\NTW_case-study.png)
+![NTW-case-study](../00_includes/SCREENSHOTS/Security/NTW_case-study.png)
 
 ### Explanation:
 
