@@ -1,9 +1,12 @@
 ## IDENTITY and ACCESS MANAGEMENT:
 
-
+Identity and access management (IAM) is the practice of making sure that people and entities with digital  
+identities have the right level of access to enterprise resources like networks and databases. User roles  
+and access privileges are defined and managed through an IAM system.
 
 ## KEY-TERMS:
 
+* IAM = Identity and Access Management
 * Authentication = The purpose of authentication is to verify that someone or something is who or what they claim to be.  
 * Authorization = Authorization is the security process that determines a user or service's level of access.  
 
@@ -21,6 +24,8 @@ Study:
 [authentication-authorization](https://www.onelogin.com/learn/authentication-vs-authorization)
 
 [multifactor-authentication](https://www.techtarget.com/searchsecurity/definition/multifactor-authentication-MFA)
+
+[PoLP](https://www.paloaltonetworks.com/cyberpedia/what-is-the-principle-of-least-privilege)
 
 ## DIFFICULTIES:
 
