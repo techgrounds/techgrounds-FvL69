@@ -29,7 +29,8 @@ that sits between a private internal network and the public Internet.
 
 ## DIFFICULTIES:
 
-
+I could not connect with my linux server via the web browser on my laptop. A peer suggested to try it with my mobile which didn't work at first,  
+but after i switched off the wifi i did work. So i need to look at my wifi config. 
 
 ## RESULT:
 
