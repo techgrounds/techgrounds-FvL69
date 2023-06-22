@@ -113,7 +113,7 @@ Hence, 2 is a primitive root modulo 5.
 
 ### Finally, the entities exchange S_1 and S_2 and derivate a common key using their own secret value and the received S value: S_2^{sv_1} mod p and S_1^{sv_2} mod p.  
 
-### In this example i use small numbers for clarity but normally one would use a big prime number to make reverse calculation by a hacker too expensive.
+### In this example i use small numbers for clarity but normally one would use a big prime number to make reverse calculation by a hacker too expensive in regard to time and compute power.  
 
 Let's take number 5 as P, 5 is one of the prime elements of 7. So P=5  
 The primitive root of 5 is 2, so G=2
