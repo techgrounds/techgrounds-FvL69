@@ -3,7 +3,9 @@
 **Cryptography has the main objective of securing data from being accessed by unauthorized entities.**  
 
 Symmetric cryptography uses a unique key to both encrypt and decrypt data. In such a way, the entities  
-that encrypt and decrypt data must access the same key to communicate.
+that encrypt and decrypt data must access the same key to communicate.  
+
+Examples of popular symmetric-key algorithms include Twofish, Serpent, AES (Rijndael algorithm) and many more.  
 
 ## KEY-TERMS:
 
@@ -26,17 +28,42 @@ that encrypt and decrypt data must access the same key to communicate.
 
 [Diffie-Hellman-protocol](https://www.comparitech.com/blog/information-security/diffie-hellman-key-exchange/)
 
+[historic-ciphers](https://interestingengineering.com/innovation/11-cryptographic-methods-that-marked-history-from-the-caesar-cipher-to-enigma-code-and-beyond)  
+
+[AES-generator](https://encode-decode.com/aes256-encrypt-online/)  
+
+
+
 ## DIFFICULTIES:
 
-Diffie-Helman protocol.  
+Diffie-Helman protocol took some figuring out. 
 
 ## RESULT:
+
+### Another historic cipher besides ceasar cipher:
+
+* _Steganography_ is a method of hiding messages 'in plain sight' by camouflaging it as something else.  
+  The earliest recorded use of this form of 'encryption' was described by Herodotus in his Histories.  
+
+### Two commonly used digital ciphers today are:  
+
+    Advanced Encryption Standard (AES): AES is a symmetric encryption algorithm that has become the de facto standard for encrypting sensitive information.  
+    It is   widely used in various applications, including secure communication protocols, file encryption, and data protection.  
+    AES supports key sizes of 128, 192, and 256 bits and operates on fixed-size blocks of data.  
+
+    RSA (Rivest-Shamir-Adleman): RSA is an asymmetric encryption algorithm widely used for secure communication, digital signatures,  
+    and key exchange. It is based on the mathematical complexity of factoring large prime numbers. RSA utilizes a public-private key pair,  
+    where the encryption key is public, and the decryption key is kept private. The security of RSA is based on the difficulty of factoring  
+    large numbers into their prime factors.  
+
+These ciphers provide secure encryption and play a crucial role in safeguarding sensitive information in various digital systems and communication channels.  
+
 
 ![symmetric-key](../00_includes/SCREENSHOTS/Security/SEC-03_symm-key.png)
 
 ## Try to think of a way to share an encryption key.
 
-### In the Diffie-Hellman protocol, two entities agree on using two values: the first value (p) is a prime number consisting of the modulo of a multiplicative group of integers, and the second value (g) is a primitive root modulo of the first value.  
+### In the Diffie-Hellman protocol, two entities agree on using two values: the first value (p) is a prime number consisting of the modulo of a multiplicative group of integers, and the second value (g) is a primitive root modulo of the first value. Using a big prime number secures the sharing of the key to encrypt and decrypt.   
 
 ### Question: give an example of a prime number consisting of the modulo of a multiplicative group of integers  
 
@@ -88,23 +115,32 @@ Hence, 2 is a primitive root modulo 5.
 
 ### In this example i use small numbers for clarity but normally one would use a big prime number to make reverse calculation by a hacker too expensive.
 
-Let's take number 5 as P, 5 is one of the prime elements of 7. So P=5
+Let's take number 5 as P, 5 is one of the prime elements of 7. So P=5  
 The primitive root of 5 is 2, so G=2
 
 Now P and G are agreed upon by Alice and Bob.  
 They both choose a secret value (sv_1 and sv_2), Alice: 9 and Bob: 7. 
 
-Then they both use the equation: **G^sv mod P** to calculate the number they're gonna share.(SN)
+Then they both use the formula: **G^sv mod P** to calculate the number they're gonna share.(SN)
 
 for Alice: **SN: 2^9 mod 5 = 2**  
 for Bob: **SN: 2^7 mod 5 = 3**  
 
-Now they share the outcomes of A and B with eachother over an open (unsafe) line.  
+Now they share the outcomes with eachother over an open (unsafe) line.  
 
-Next, they both use the equation: **SN^sv mod P** to calculate the common key. (CK)    
+Next, they both use the formula: **SN^sv mod P** to calculate the common key. (CK)    
 
 for Alice: **CK = 3^9 mod 5 = 19.683 mod 5 = 3**  
 for Bob: **CK = 2^7 mod 5 = 128 mod 5 = 3**  
 
 ### The common key (CK) they can use for their symmetric encryption is: **3**  
+
+## Send a symmetrically encrypted message to one of your peers.
+![encrypt-decrypt_with_Zev](../00_includes/SCREENSHOTS/Security/SEC-04_symm-encrypt.png)
+
+## Disadvantages of Symmetric Cryptography  
+
+It is not possible to create digital signatures that cannot be revoked. The message's origin and validity cannot be guaranteed.  
+Messages cannot be proven to have originated from a specific person because both the sender and the recipient use the same key.  
+
 
