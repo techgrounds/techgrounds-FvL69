@@ -24,6 +24,7 @@ It consists of three entities that assure you can communicate securely over an i
 
 [openssl-quick-ref](https://www.digicert.com/kb/ssl-support/openssl-quick-reference-guide.htm)
 
+[self-signed-certificate-for-apache](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04)
 ## DIFFICULTIES:
 
 * creating the certificate, it took a while before i found the right manual for apache.
