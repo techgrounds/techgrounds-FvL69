@@ -24,8 +24,7 @@ expenditure (opex). This can reduce cost by not spending money on capacity you d
 * CAPEX = Capital Expenditure; Money spent on fixed assets e.g. land, buildings and equipment by an organisation or business.
 * OPEX = Operational Expenditure; Money spent on ongoing costs such as wages or rent.
 * S3 bucket = Simpel Storage Service
-* EC2 = Elastic Compute Cloud
-*
+* EC2 = Elastic Compute Cloud  
 
 ## ASSIGNMENT:
 
@@ -88,6 +87,9 @@ Listing some of them:
 
 #### Creating an alert  
 ![creating-cost-alert](../00_includes/SCREENSHOTS/AWS/AWS-02_alert.png)
+
+**E-mail notification from AWS.**
+![E-mail_notification](../00_includes/SCREENSHOTS/AWS/AWS-02_E-mail-notification.png)  
 
 #### Understand the options AWS offers to gain insight in cloud costs and usage.  
 _**Amazon Managed Grafana**_ is a fully managed, scalable, secure and highly available data visualization service that   
