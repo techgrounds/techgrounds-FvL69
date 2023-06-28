@@ -25,11 +25,11 @@ As such, it is an important part of the AWS Cloud Practitioner exam.
 
 ## USED RESOURCES:
 
-[6-advantages-cloud-computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
+[6-advantages-cloud-computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)  
 
 ## DIFFICULTIES:
 
-
+None.
 
 ## RESULT:  
 
