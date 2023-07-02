@@ -13,9 +13,6 @@ specialized hardware might give better performance for lower costs.
 
 * EBS = Elastic Block Storage  
 * snapshot = A snapshot contains all of the information that is needed to restore your data (from the moment when the snapshot was taken) to a new EBS volume.  
-*
-*
-*
 
 ## ASSIGNMENT:
 
